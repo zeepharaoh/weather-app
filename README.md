@@ -1,2 +1,2 @@
 ## Weather Application 
-### with Vanilla JavaScript with API and Local storage 
+### Vanilla JavaScript, API and Local storage 
