@@ -17,7 +17,6 @@ class Forecast {
     const query = `?apikey= ${this.key}&q=${city}`;
     const response = await fetch(this.cityURI + query);
     const data = await response.json();
-
     return data[0];
   }
   // ! Get weather information
