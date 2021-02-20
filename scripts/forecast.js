@@ -1,3 +1,4 @@
+// Class created for better structure
 class Forecast {
   constructor() {
     this.key = 'CFkpn7Y18gjI4AV2Ckfszui9JqhaHeCY';
